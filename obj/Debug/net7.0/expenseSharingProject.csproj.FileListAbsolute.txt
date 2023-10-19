@@ -1,0 +1,14 @@
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\obj\Debug\net7.0\expenseSharingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\obj\Debug\net7.0\expenseSharingProject.AssemblyInfoInputs.cache
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\obj\Debug\net7.0\expenseSharingProject.AssemblyInfo.cs
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\obj\Debug\net7.0\expenseSharingProject.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\bin\Debug\net7.0\expenseSharingProject.exe
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\bin\Debug\net7.0\expenseSharingProject.deps.json
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\bin\Debug\net7.0\expenseSharingProject.runtimeconfig.json
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\bin\Debug\net7.0\expenseSharingProject.dll
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\bin\Debug\net7.0\expenseSharingProject.pdb
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\obj\Debug\net7.0\expenseSharingProject.dll
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\obj\Debug\net7.0\refint\expenseSharingProject.dll
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\obj\Debug\net7.0\expenseSharingProject.pdb
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\obj\Debug\net7.0\expenseSharingProject.genruntimeconfig.cache
+C:\Users\Joshua\Desktop\My_folders\C#_ONMS\expenseSharingProject\obj\Debug\net7.0\ref\expenseSharingProject.dll
