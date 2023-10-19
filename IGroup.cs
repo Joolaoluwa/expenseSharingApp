@@ -6,6 +6,6 @@ public interface IGroup
 {
         string GroupName();
         int NoOfMembers();
-        void GroupMembers();
+        bool GroupMembers();
 }
 
